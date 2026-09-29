@@ -37,7 +37,7 @@ __negrito__
 ### imagens e links
 [Acesse o site clicando aqui: ](https://classroom.google.com/h/st)
 
-<img width="300" height="290" alt="image" src="https://github.com/user-attachments/assets/2f81e714-1734-4adf-9352-e725eaa2ba82" />
+
 
 ### Tabela
 |xxxx|yyyy|zzzz|
